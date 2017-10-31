@@ -1,2 +1,1 @@
-asd
-asds
+I believe that this could have been used as a platform for interesting discussion. Perhaps we could have spoken about something useful like the null coalescing operator (??). 
